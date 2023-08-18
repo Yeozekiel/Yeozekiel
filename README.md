@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hallo Semua👋
 
+Perkenalkan saya **Vincent Yeozekiel**.\
+
+Saya mahasiswa **S1 Ilmu Komputer di Universitas Gadjah Mada Yogyakarta**.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/vincent-yeozekiel/)ku ya.
 <!--
 **Yeozekiel/Yeozekiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
